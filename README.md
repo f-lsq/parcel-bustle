@@ -27,7 +27,8 @@ This app is targeted for last-mile delivery services providers, specialising in 
 4. As a *host*, I want to be able to see the list of the undelivered parcels, so that I can contact the affected customers to settle their delivery
 
 ### User Flow Diagram
-![User Flow Diagram](flowchart.png)
+![User Flow Diagram](flowchart.png#gh-light-mode-only)
+![User Flow Diagram](flowchart-dark.png#gh-dark-mode-only)
 
 
 ### Wireframes
@@ -55,7 +56,9 @@ Below are the wireframes for both the worker, and admin pages. The link to the F
 | Worker       | [Mulan Hua](https://disney.fandom.com/wiki/Fa_Mulan) | mulanhua@parcelbustle.com    | mulanhua123@      |
 | Worker       | [Shang Li](https://disney.fandom.com/wiki/Li_Shang)   | shangli@parcelbustle.com    | shangli123@      |
 | Worker       | [Chi Fu](https://disney.fandom.com/wiki/Chi-Fu)   | chifu@parcelbustle.com    | shangli123@      |
-| Host         | [Yu Shan](https://en.wikipedia.org/wiki/Li_Shang)      | shanyu@parcelbustle.com    | *Not provided* |
+| Host         | Host 1      | host1@parcelbustle.com    | *Not provided* |
+| Host         | Host 2      | host2@parcelbustle.com    | *Not provided* |
+| Host         | Host 3      | host3@parcelbustle.com    | *Not provided* |
 
 ## Credits
 Links to all assets are listed here.
